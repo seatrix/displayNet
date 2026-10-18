@@ -96,3 +96,5 @@ No drivers to install. No router setup. Just double-click and go.
 ## Contact
 
 For questions or support, email [gongxd@126.com](mailto:gongxd@126.com)
+
+DLNA镜流V1.1.zip 链接: https://pan.baidu.com/s/1oMxKVGuKUr_gCraU0sLWag?pwd=wgqx 提取码: wgqx
