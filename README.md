@@ -1,4 +1,4 @@
-# DisplayNet V1.1
+# DLNAScreenStream V1.1
 
 **Mirror your PC screen to any smart TV — zero config, low latency, crystal clear**
 
@@ -6,7 +6,7 @@
 
 ## What Is This?
 
-DisplayNet is a Windows desktop screen mirroring tool. It streams your computer screen in real time to any DLNA-compatible device on your local network — smart TVs, projectors, and media players.
+DLNAScreenStream is a Windows desktop screen mirroring tool. It streams your computer screen in real time to any DLNA-compatible device on your local network — smart TVs, projectors, and media players.
 
 No drivers to install. No router setup. Just double-click and go.
 
